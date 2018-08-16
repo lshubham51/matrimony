@@ -7,7 +7,4 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Marathi Matrimony';
-  link1  ="Tour of Heroes"
-  link2  ="CLI Documentation"
-  link3  ="Angular blog"
 }
